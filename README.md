@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
