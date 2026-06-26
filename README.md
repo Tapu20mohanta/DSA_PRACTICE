@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
