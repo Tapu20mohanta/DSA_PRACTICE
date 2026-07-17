@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
