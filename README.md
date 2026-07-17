@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0169-majority-element) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
