@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0202-happy-number) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
