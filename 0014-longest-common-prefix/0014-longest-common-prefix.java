@@ -9,6 +9,7 @@ class Solution {
             for(int i=1;i<strs.length;i++){
                 if(!strs[i].startsWith(sub)){
                     pre =false;
+                    break;
                 }
             }
             if(pre) return sub;
