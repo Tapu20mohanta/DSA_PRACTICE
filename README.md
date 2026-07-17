@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
