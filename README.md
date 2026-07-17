@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Array
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
