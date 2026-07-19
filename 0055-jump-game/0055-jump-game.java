@@ -5,10 +5,13 @@ class Solution {
             return true;
         int far=0;
         for(int i=0;i<n;i++){
-            if(far>=i){
-                far=Math.max(far,i+nums[i]);
-            }
+            if(far<i)   return false;
+            
+            
+            far=Math.max(far,i+nums[i]);
+            if(far>=n-1)    return true;
+            
         }
-        return far>=n-1;
+        return true;
     }
 }
