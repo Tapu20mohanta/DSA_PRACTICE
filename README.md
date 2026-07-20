@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0169-majority-element) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
