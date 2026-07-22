@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
+| [1143-longest-common-subsequence](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
