@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
 |  |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
