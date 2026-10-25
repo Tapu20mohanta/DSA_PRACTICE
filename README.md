@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [1288-remove-covered-intervals](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
