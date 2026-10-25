@@ -1,17 +1,9 @@
 int maxProfit(int* prices, int pricesSize) {
-    int pre[pricesSize];
-    int post[pricesSize];
-    pre[0]=prices[0];
-    post[pricesSize-1]=prices[pricesSize-1];
+    int min=prices[0];
+    int result=0;
     for(int i=1;i<pricesSize;i++){
-        pre[i]=fmin(prices[i],pre[i-1]);
+       min=fmin(min,prices[i]);
+       result=fmax(result,prices[i]-min);
     }
-    for(int i=pricesSize-2;i>=0;i--){
-        post[i]=fmax(prices[i],post[i+1]);
-    }
-    int min=0;
-    for(int i=0;i<pricesSize;i++){
-        min=fmax(min,post[i]-pre[i]);
-    }
-    return min;
+    return result;
 }
