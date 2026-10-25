@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [1288-remove-covered-intervals](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
+| [1480-running-sum-of-1d-array](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
