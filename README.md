@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1672-richest-customer-wealth) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
