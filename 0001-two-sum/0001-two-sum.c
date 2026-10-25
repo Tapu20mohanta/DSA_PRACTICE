@@ -9,9 +9,12 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
             if(nums[i]+nums[j]==target){
                 arr[0]=i;
                 arr[1]=j;
+                *returnSize=2;
+                return arr;
             }
         }
     }
-    *returnSize=2;
-    return arr;
+    free(arr);
+    *returnSize=0;
+    return NULL;
 }
