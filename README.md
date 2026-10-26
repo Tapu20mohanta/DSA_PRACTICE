@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Tapu20mohanta/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
